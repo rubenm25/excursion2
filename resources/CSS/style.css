@@ -1,0 +1,49 @@
+body {
+    background-color: #000;
+}
+
+h1 {
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+}
+
+#download {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+main {
+    text-align: center;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+}
+
+footer {
+    text-align: center;
+    margin: 20px 0px;
+}
+
+#copyright {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+}
